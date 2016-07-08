@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Beyond Reality"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Dominance"
+description              : "Home for News, Charts, Updates and more."
+url                      : # the base hostname & protocol for your site e.g. "https://beyondrealitygaming.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+gh_repo                  : https://github.com/Beyond-Reality
+teaser                   : # factory.png"
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : Dominance28
 facebook:
   username               :
   app_id                 :
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Dominance"
+  avatar           : "Dominancemarine.png"
+  bio              : "Founder."
+  location         : "Beyond"
   email            :
   uri              :
   bitbucket        :
@@ -86,7 +86,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "Dominance28"
   vine             :
   weibo            :
   xing             :
